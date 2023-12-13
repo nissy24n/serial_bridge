@@ -1,0 +1,15 @@
+{
+  "name": "serial_serial_bridge",
+  "version": "0.0.1",
+  "description": "",
+  "main": "serial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["X68000 Z"],
+  "author": "nobu24",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "serialport": "^11.0.0"
+  }
+}
